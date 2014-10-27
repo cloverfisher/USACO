@@ -3,9 +3,7 @@ LANG: C++
 TASK: barn1
 */
 
-#include <algorithm>
 #include <stdio.h>
-#include <functional>
 #include <stdlib.h>
 
 
